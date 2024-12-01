@@ -1,2 +1,2 @@
 # LeetCode
-Repository of all completed LeetCode excersizes -> https://leetcode.com/u/ing862 
+Repository of all completed LeetCode excersises -> https://leetcode.com/u/ing862 
